@@ -54,4 +54,4 @@ These scripts will help you in mitigate, limit and prevent the CVEs attacks & ex
 <h4>Script Link:</h4> https://www.vicarius.io/vsociety/vulnerabilities/183041/CVE-2017-0144
 
 # Author
-Made By: <a href="https://zeyadazima.com/">Zeyad Azima</a> && Made By: <a href="https://www.linkedin.com/in/yosef0x1/">Youssef Muhammad</a>
+Made By: <a href="https://zeyadazima.com/">Zeyad Azima</a> && <a href="https://www.linkedin.com/in/yosef0x1/">Youssef Muhammad</a>
